@@ -1,0 +1,10 @@
+- Criar aplicacao inicial
+- Criar classes Cliente e Pedido
+- Criar consumidor da fila Rabbit MQ
+- Criar conexao e implementar funcoes do banco
+    - Criar DAOs
+    - [OPCIONAL] Criar UPDATE, DELETE
+- Criar Rest API
+    a. [GET] Valor total do pedido
+    b. [GET] Quantidade de Pedidos por Cliente
+    c. [GET] Lista de pedidos realizados por cliente
